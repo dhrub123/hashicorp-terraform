@@ -6,4 +6,4 @@
 |1|https://github.com/zealvora/terraform-beginner-to-advanced-resource|
 |2||
 |3|https://docs.google.com/document/d/179clqsxOGQa-iGKu1dcmz89Vpso9-7Of8opIkXwPr_k/edit?usp=sharing|
-|4||
+|4|https://docs.google.com/document/d/1zAtDbdmvU8qRTVhxrNq_izjlJz2UBd3VnTQvXFzgKyI/edit?usp=sharing|
