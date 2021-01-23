@@ -12,3 +12,4 @@
 |7|https://docs.google.com/document/d/1QH8gMz5Rp_J4e7dODQqmFSM5XabGZiGWKOoOFkJtls4/edit?usp=sharing|
 |8|https://docs.google.com/document/d/1fNKP1b6Uv1hav03idiaTgbuxHgJ9ujzOh2ALoMBVovE/edit?usp=sharing|
 |sentinel|https://docs.hashicorp.com/sentinel/terraform/|
+|9|https://docs.google.com/document/d/1N_8M8wpCgiZ0D2CXgYuypKBAvtkwduQJ4gdtpVyD1as/edit?usp=sharing|
