@@ -13,3 +13,5 @@
 |8|https://docs.google.com/document/d/1fNKP1b6Uv1hav03idiaTgbuxHgJ9ujzOh2ALoMBVovE/edit?usp=sharing|
 |sentinel|https://docs.hashicorp.com/sentinel/terraform/|
 |9|https://docs.google.com/document/d/1N_8M8wpCgiZ0D2CXgYuypKBAvtkwduQJ4gdtpVyD1as/edit?usp=sharing|
+|10|https://cognizant.udemy.com/course/terraform-beginner-to-advanced/learn/lecture/20797410#reviews|
+|11|https://docs.google.com/document/d/1bgeX2W_f2BQ1uGlNZR5yIk9KUxnPK-VUQs_Hax3mPi0/edit?usp=sharing|
